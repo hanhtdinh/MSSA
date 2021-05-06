@@ -1,0 +1,7 @@
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\bin\Debug\LeapYear1.exe.config
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\bin\Debug\LeapYear1.exe
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\bin\Debug\LeapYear1.pdb
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\obj\Debug\LeapYear1.csprojAssemblyReference.cache
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\obj\Debug\LeapYear1.csproj.CoreCompileInputs.cache
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\obj\Debug\LeapYear1.exe
+C:\Users\17142\source\repos\LeapYear1\LeapYear1\obj\Debug\LeapYear1.pdb

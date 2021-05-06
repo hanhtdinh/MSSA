@@ -1,0 +1,7 @@
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\bin\Debug\Symmetric Encryption.exe.config
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\bin\Debug\Symmetric Encryption.exe
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\bin\Debug\Symmetric Encryption.pdb
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\obj\Debug\Symmetric Encryption.csprojAssemblyReference.cache
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\obj\Debug\Symmetric Encryption.csproj.CoreCompileInputs.cache
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\obj\Debug\Symmetric Encryption.exe
+C:\MSSA Files\Demos\Symmetric Encryption\Symmetric Encryption\obj\Debug\Symmetric Encryption.pdb

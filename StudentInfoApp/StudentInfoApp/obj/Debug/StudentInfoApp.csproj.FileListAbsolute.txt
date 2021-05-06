@@ -1,0 +1,1 @@
+C:\Users\17142\source\repos\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.CoreCompileInputs.cache

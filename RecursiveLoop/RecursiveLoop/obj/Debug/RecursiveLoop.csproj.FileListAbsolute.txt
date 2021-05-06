@@ -1,0 +1,7 @@
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\obj\Debug\RecursiveLoop.csprojAssemblyReference.cache
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\obj\Debug\RecursiveLoop.csproj.CoreCompileInputs.cache
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\bin\Debug\RecursiveLoop.exe.config
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\bin\Debug\RecursiveLoop.exe
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\bin\Debug\RecursiveLoop.pdb
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\obj\Debug\RecursiveLoop.exe
+C:\Users\17142\source\repos\RecursiveLoop\RecursiveLoop\obj\Debug\RecursiveLoop.pdb

@@ -1,0 +1,13 @@
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.exe
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.deps.json
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.runtimeconfig.json
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.runtimeconfig.dev.json
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.dll
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\bin\Debug\netcoreapp3.1\WorkingWithDates3.pdb
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.csprojAssemblyReference.cache
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.AssemblyInfoInputs.cache
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.AssemblyInfo.cs
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.csproj.CoreCompileInputs.cache
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.dll
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.pdb
+C:\Users\17142\source\repos\WorkingWithDates3\WorkingWithDates3\obj\Debug\netcoreapp3.1\WorkingWithDates3.genruntimeconfig.cache

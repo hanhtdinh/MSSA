@@ -1,0 +1,7 @@
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\bin\Debug\EvenNumbersApp.exe.config
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\bin\Debug\EvenNumbersApp.exe
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\bin\Debug\EvenNumbersApp.pdb
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\obj\Debug\EvenNumbersApp.csprojAssemblyReference.cache
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\obj\Debug\EvenNumbersApp.csproj.CoreCompileInputs.cache
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\obj\Debug\EvenNumbersApp.exe
+C:\Users\17142\source\repos\EvenNumbersApp\EvenNumbersApp\obj\Debug\EvenNumbersApp.pdb
